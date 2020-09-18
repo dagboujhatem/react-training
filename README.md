@@ -9,11 +9,11 @@ It sets up your development environment so that you can use the latest JavaScrip
 `cd my-app`<br />
 `npm start`<br />
 
-## Available Scripts
+# Step 2: Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn start` or `npm run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
